@@ -87,7 +87,7 @@ From the project directory, with the virtual environment activated:
 python Game.py
 ```
 
-A window titled **“Pose Master”** should open and your webcam will activate.
+A window titled **“Pose Perfect”** should open and your webcam will activate.
 
 ---
 
