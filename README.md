@@ -1,6 +1,6 @@
-## Pose Master
+## Pose Perfect
 
-Pose Master is a webcam-based pose-matching game built with Python, MediaPipe, TensorFlow, OpenCV, and Pygame.  
+Pose Perfect is a webcam-based pose-matching game built with Python, MediaPipe, TensorFlow, OpenCV, and Pygame.  
 Match the on‑screen pose within the time limit to earn points and extend your play time.
 
 ---
